@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *StatFun*
 
-Submitted by: **Your Name Here**
+Submitted by: **Anh Pham**
 
-**Name of your app** is an app that... [TODO] 
+**StatFun**: I would like to build an educational app that teaches statistics through interactive exercises and visualizations. Users could input data, explore distributions, and run simulations to see statistical concepts in action. Key features would include guided tutorials, real-time feedback, and mini-games that reinforce probability, hypothesis testing, and regression concepts. Users could track their progress and earn badges for mastering topics. The goal is to make learning statistics engaging, hands-on, and intuitive.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
